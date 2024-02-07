@@ -1,4 +1,4 @@
-# Clustering-Music-Genres-with-Machine-Learning
+# Clustering Music Genres with Machine Learning
 
 Problem Statement :
                    Every person has a different taste in music. We cannot identify what kind of music does a person likes by just knowing about their lifestyle, hobbies, or profession. So it is difficult for music streaming applications to recommend music to a person. But if we know what kind of songs a person listens to daily, we can find similarities in all the music files and recommend similar music to the person.
